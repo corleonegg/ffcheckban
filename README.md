@@ -57,15 +57,6 @@ Um bot de Discord para verificar se uma conta de Free Fire está banida, utiliza
     python main.py
     ```
 
-## 📸 Demonstração
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/a16183fe-9e97-455c-ae5c-aa4b17932678" alt="demo 1" width="400"/> 
-  <img src="https://github.com/user-attachments/assets/936fcc49-5626-45a1-815c-94ae76f5c836" alt="demo 2" width="360"/>
-</div>
-
-> 🎥 O GIF nesta demonstração foi fornecido por [NinjaHex]() – 
-
 ## Uso
 
 * Use `!ID <user_id>` em um servidor de Discord onde o bot esteja presente.
